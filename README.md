@@ -4,4 +4,4 @@ Project 1 from TheOdinProject
 
 Odin Recipes
 
-A basic website that goes over the basics of HTML and covers different tags and elements.
+A basic website that goes over the basics of HTML and covers the usage of common tags and elements.
